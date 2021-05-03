@@ -1,151 +1,108 @@
-baseurl = "http://www.example.com" # Hostname (and path) to the root.
-title = "Naomi Lago" # Site title.
-theme = "coder-portfolio" # Set the theme.
-languagecode = "en" # The site’s language code used to generate RSS.
-defaultcontentlanguage = "en" # The default content language.
-
-paginate = 20 # Default number of pages per page in pagination.
-
-pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
-pygmentscodefences = true # Enable code fence background highlighting.
-pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
-pygmentsUseClasses = true # new add
-
-disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
-
-[params] # theme parameters
-    author = "Naomi Lago" # Author's name.
-    info = "Trans woman && Technology Lover" # Author's job title or info.
-    description = "Naomi Lago's personal blog" # Site description.
-    keywords = "blog,development,personal,transgender,technology,career" # Site keywords.
-    avatarurl = "images/avatar.png" # Contain the path of the optionnal avatar in the static folder.
-
-    footercontent = "Enter a text here." # Add footer content
-    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
-
-    # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
-
-    # Custom CSS
-    custom_css = []
-
-    # Alignment of Mobile Menu items
-    itemscentered = true
-
-    # RTL support
-    rtl = false
-
-    # Bottom sns share
-    snsShare = true # new add
-    # Popular sns share
-    # if you want add sns. please message!
-    enableTwitterShare = true  # new add
-    enableFacebookShare = true # new add
-    enableHatenaShare = true   # new add
-    enableLineShare = true     # new add
-    enableLinkedInShare = true # new add
-
-    thumbnail = "images/tn.png" # default sns thumbnail
-
-    # Multilanguage mode
-    langseparator = "|" # Separates menus from language selectors when site is multilingual.
-
-# Social links
-[[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
-    weight = 1
-    url = "https://github.com/naomilag0/"
-[[params.social]]
-    name = "Linkedin"
-    icon = "fab fa-linkedin"
-    weight = 2
-    url = "https://www.linkedin.com/in/naomilag0/"
-[[params.social]]
-    name = "Telegram"
-    icon = "fab fa-telegram"
-    weight = 3
-    url = "https://www.t.me/naomilag0/"
-
-[[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook"
-    weight = 4
-    url = "https://facebook.com/naomilag0/"
-
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 5
-    url = "https://twitter.com/naomilag0/"
-
-# [[params.social]]
-    # If icon is not set, Text is displayed.
-#    name = "LinkedIn"
-#    weight = 4
-#   url = "https://www.linkedin.com/in/naomilago/"
-
-# Menu links
+baseurl = "http://www.build.naomilago.netlify.com"
+defaultcontentlanguage = "en"
+disqusShortname = "yourdiscussshortname"
+languagecode = "en"
+paginate = 20
+pygmentsUseClasses = true
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsstyle = "b2"
+theme = "coder-portfolio"
+title = "Naomi Lago"
+[languages.en]
+languagename = "English"
+title = "Naomi Lago"
+[[languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 1
+[[languages.en.menu.main]]
+name = "Blog"
+url = "posts"
+weight = 2
+[languages.en.params]
+author = "Naomi Lago"
+description = "Naomi Lago's personal blog"
+fixedbarContent = "Do you want to know me more private? → "
+fixedbarContentAfter = "Thank You! Please share it if you like it → "
+footercontent = "Enter a text here."
+info = "Trans woman && Technology Lover"
+keywords = "blog,developer,personal,transgender,technology,career"
+[languages.pt]
+languagename = "Português"
+title = "Naomi Lago"
+[[languages.pt.menu.main]]
+name = "Sobre"
+url = "about"
+weight = 1
+[[languages.pt.menu.main]]
+name = "Blog"
+url = "posts"
+weight = 2
+[languages.pt.params]
+author = "Naomi Lago"
+description = "Blog pessoal da Naomi Lago"
+fixedbarContent = "Quer me conhecer mais de perto? → "
+fixedbarContentAfter = "Obrigada! Não se esqueça de compartilhar se você gostar → "
+footercontent = "Insira um texto aqui."
+info = "Mulher Trans && Amante de Tecnologia"
+keywords = "blog,desenvolvimento,trans,tecnologia,carreira"
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "posts"
+name = "Blog"
+url = "posts"
+weight = 1
 [[menu.main]]
-    name = "About"
-    weight = 2
-    url = "about"
-
-[languages]
-    [languages.en]
-        languagename = "English" # The language name to be displayed in the selector.
-        title = "Naomi Lago"
-
-        # You can configure the theme parameter for each language.
-        [languages.en.params]
-        author = "Naomi Lago"
-        info = "Trans woman && Technology Lover"
-        description = "Naomi Lago's personal blog"
-        keywords = "blog,developer,personal,transgender,technology,career"
-        footercontent = "Enter a text here."
-        fixedbarContent = "Do you want to know me more private? → "
-        fixedbarContentAfter = "Thank You! Please share it if you like it → "
-
-        [languages.en.menu] # It is possible to change the menu too.
-
-        [[languages.en.menu.main]]
-        name = "About"
-        weight = 1.0
-        url = "about"
-
-        [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 2.0
-        url = "posts"
-
-
-    [languages.pt]
-        languagename = "Português"
-        title = "Naomi Lago"
-
-        [languages.pt.params]
-            author = "Naomi Lago"
-            description = "Blog pessoal da Naomi Lago"
-            keywords = "blog,desenvolvimento,trans,tecnologia,carreira"
-            info = "Mulher Trans && Amante de Tecnologia"
-            footercontent = "Insira um texto aqui."
-            fixedbarContent = "Quer me conhecer mais de perto? → "
-            fixedbarContentAfter = "Obrigada! Não se esqueça de compartilhar se você gostar → "
-
-        [languages.pt.menu]
-
-            [[languages.pt.menu.main]]
-            name = "Sobre"
-            weight = 1.0
-            url = "about"
-
-            [[languages.pt.menu.main]]
-            name = "Blog"
-            weight = 2.0
-            url = "posts"
+name = "About"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Testing"
+url = "https://naomilago.netlify.com"
+weight = "3"
+[params]
+author = "Naomi Lago"
+avatarurl = "images/avatar.png"
+custom_css = []
+description = "Naomi Lago's personal blog"
+enableFacebookShare = true
+enableHatenaShare = true
+enableLineShare = true
+enableLinkedInShare = true
+enableTwitterShare = true
+fixedbarContent = "Do you want to know me more private?→"
+fixedbarContentAfter = "Thank You! Please share it if you like it→"
+footercontent = "Enter a text here."
+hideCopyright = false
+hideCredits = false
+info = "Trans woman && Technology Lover"
+itemscentered = true
+keywords = "blog,development,personal,transgender,technology,career"
+langseparator = "|"
+rtl = false
+snsShare = true
+thumbnail = "images/tn.png"
+[[params.social]]
+icon = "fab fa-github"
+name = "Github"
+url = "https://github.com/naomilag0/"
+weight = 1
+[[params.social]]
+icon = "fab fa-linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/naomilag0/"
+weight = 2
+[[params.social]]
+icon = "fab fa-telegram"
+name = "Telegram"
+url = "https://www.t.me/naomilag0/"
+weight = 3
+[[params.social]]
+icon = "fab fa-facebook"
+name = "Facebook"
+url = "https://facebook.com/naomilag0/"
+weight = 4
+[[params.social]]
+icon = "fab fa-twitter"
+name = "Twitter"
+url = "https://twitter.com/naomilag0/"
+weight = 5
