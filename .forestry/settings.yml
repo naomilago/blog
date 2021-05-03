@@ -17,13 +17,13 @@ sections:
   label: Posts (en)
   create: all
   match: "**/*"
-  new_doc_ext: ".en.md"
+  new_doc_ext: en.md
 - type: directory
   path: content/posts/en
   label: Posts (pt)
   create: all
   match: "**/*"
-  new_doc_ext: ".pt.md"
+  new_doc_ext: pt.md
 - type: heading
   label: About
 - type: document
