@@ -1,10 +1,10 @@
 +++
-title = "Contact"
-slug = "contact"
-thumbnail = "images/tn.png"
 description = "contact"
-+++
+slug = "contact"
+thumbnail = "/uploads/screenshot.png"
+title = "Contact"
 
++++
 ## 連絡をとりたいですか?
 
 質問や報告などの連絡は下記からお願いします。  
