@@ -55,6 +55,14 @@ weight = 2
 name = "Blog"
 url = "posts"
 weight = 1
+[[menu.main]]
+name = "Projects"
+url = "projects"
+weight = "3"
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = "4"
 [params]
 author = "Naomi Lago"
 avatarurl = "images/avatar.png"
