@@ -13,13 +13,21 @@ title = "Naomi Lago"
 languagename = "English"
 title = "Naomi Lago"
 [[languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 1
+[[languages.en.menu.main]]
 name = "Blog"
 url = "posts"
 weight = 2
 [[languages.en.menu.main]]
-name = "About"
-url = "about"
-weight = 1
+name = "Projects"
+url = "projects"
+weight = "3"
+[[languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = "4"
 [languages.en.params]
 author = "Naomi Lago"
 description = "Naomi Lago's personal blog"
@@ -39,6 +47,14 @@ weight = 1
 name = "Blog"
 url = "posts"
 weight = 2
+[[languages.pt.menu.main]]
+name = "Projetos"
+url = "projects"
+weight = "3"
+[[languages.pt.menu.main]]
+name = "Contato"
+url = "contacts"
+weight = "4"
 [languages.pt.params]
 author = "Naomi Lago"
 description = "Blog pessoal da Naomi Lago"
