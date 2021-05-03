@@ -76,7 +76,7 @@ keywords = "blog,development,personal,transgender,technology,career"
 langseparator = "|"
 rtl = false
 snsShare = true
-thumbnail = "images/tn.png"
+thumbnail = "/uploads/screenshot.png"
 [[params.social]]
 icon = "fab fa-github"
 name = "Github"
