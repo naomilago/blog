@@ -1,7 +1,7 @@
 +++
 description = "about"
 slug = "about"
-thumbnail = "images/tn.png"
+thumbnail = "/uploads/screenshot.png"
 title = "About Hugo"
 
 +++
