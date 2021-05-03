@@ -1,10 +1,10 @@
 +++
-title = "Projects"
-slug = "projects"
-thumbnail = "images/tn.png"
 description = "projects"
-+++
+slug = "projects"
+thumbnail = "/uploads/screenshot.png"
+title = "Projects"
 
++++
 ## Portfolio Demo
 
 {{% portfolio image="/images/tn.png" alt="Coder Portfolio" %}}
