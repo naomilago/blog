@@ -55,10 +55,6 @@ weight = 1
 name = "About"
 url = "about"
 weight = 2
-[[menu.main]]
-name = "Testing"
-url = "https://naomilago.netlify.com"
-weight = "3"
 [params]
 author = "Naomi Lago"
 avatarurl = "images/avatar.png"
