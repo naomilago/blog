@@ -1,10 +1,10 @@
 +++
-title = "About Hugo"
-slug = "about"
-thumbnail = "images/tn.png"
 description = "about"
-+++
+slug = "about"
+thumbnail = "/uploads/screenshot.png"
+title = "About Hugo"
 
++++
 ---------------------------
 This theme is created based on [hugo-coder](https://github.com/luizdepra/hugo-coder).  
 I made it possible to tell yourself more by my change.   
