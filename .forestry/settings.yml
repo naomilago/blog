@@ -8,16 +8,10 @@ sections:
   label: Blog Post
 - type: directory
   path: content/posts
-  label: Posts (en)
+  label: General
   create: all
   match: "**/*"
-  new_doc_ext: ".en.md"
-- type: directory
-  path: content/posts
-  label: Posts (pt)
-  create: all
-  match: "**/*"
-  new_doc_ext: ".pt.md"
+  new_doc_ext: ".md"
 - type: heading
   label: About
 - type: document
