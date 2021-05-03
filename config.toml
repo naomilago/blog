@@ -48,13 +48,13 @@ footercontent = "Insira um texto aqui."
 info = "Mulher Trans && Amante de Tecnologia"
 keywords = "blog,desenvolvimento,trans,tecnologia,carreira"
 [[menu.main]]
-name = "Blog"
-url = "posts"
-weight = 1
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 2
+[[menu.main]]
+name = "Blog"
+url = "posts"
+weight = 1
 [params]
 author = "Naomi Lago"
 avatarurl = "images/avatar.png"
