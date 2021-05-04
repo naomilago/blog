@@ -1,5 +1,6 @@
 baseurl = "https://building-naomilago.netlify.app"
 defaultcontentlanguage = "en"
+googleAnalytics = "G-5R5CNE4PW6"
 disqusShortname = "yourdiscussshortname"
 languagecode = "en"
 paginate = "20"
