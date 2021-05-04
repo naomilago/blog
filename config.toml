@@ -53,7 +53,7 @@ url = "pt/projects"
 weight = "3"
 [[languages.pt.menu.main]]
 name = "Contato"
-url = "pt/contacts"
+url = "pt/contact"
 weight = "4"
 [languages.pt.params]
 author = "Naomi Lago"
