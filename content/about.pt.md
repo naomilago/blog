@@ -1,8 +1,9 @@
 +++
 description = "about"
+draft = true
 slug = "about"
 thumbnail = "/uploads/screenshot.png"
-title = "About Hugo"
+title = "Quem sou eu?"
 
 +++
 このテーマは[hugo-coder](https://github.com/luizdepra/hugo-coder)を元に作成をしています。  
