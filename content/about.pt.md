@@ -1,6 +1,5 @@
 +++
 description = "about"
-draft = true
 slug = "about"
 thumbnail = "/uploads/screenshot.png"
 title = "Quem sou eu?"
