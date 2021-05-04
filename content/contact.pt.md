@@ -5,7 +5,7 @@ thumbnail = "/uploads/screenshot.png"
 title = "Contato"
 
 +++
-## 連絡をとりたいですか?
+## 連絡をaとりたいですか?
 
 質問や報告などの連絡は下記からお願いします。
 
