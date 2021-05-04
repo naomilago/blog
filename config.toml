@@ -41,19 +41,19 @@ languagename = "Português"
 title = "Naomi Lago"
 [[languages.pt.menu.main]]
 name = "Sobre"
-url = "about"
+url = "pt/about"
 weight = 1
 [[languages.pt.menu.main]]
 name = "Blog"
-url = "posts"
+url = "pt/posts"
 weight = 2
 [[languages.pt.menu.main]]
 name = "Projetos"
-url = "projects"
+url = "pt/projects"
 weight = "3"
 [[languages.pt.menu.main]]
 name = "Contato"
-url = "contacts"
+url = "pt/contacts"
 weight = "4"
 [languages.pt.params]
 author = "Naomi Lago"
