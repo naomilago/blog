@@ -60,7 +60,7 @@ author = "Naomi Lago"
 description = "Blog pessoal da Naomi Lago"
 fixedbarContent = "Quer me conhecer mais de perto? → "
 fixedbarContentAfter = "Obrigada! Não se esqueça de compartilhar se você gostar → "
-footercontent = "Insira um texto aqui."
+footercontent = ""
 info = "Mulher Trans && Amante de Tecnologia"
 keywords = "blog,desenvolvimento,trans,tecnologia,carreira"
 [[menu.main]]
