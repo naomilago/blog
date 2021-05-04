@@ -11,13 +11,7 @@ sections:
   label: General
   create: all
   match: "**/*"
-  new_doc_ext: md
-- type: directory
-  path: content/posts/en
-  label: Posts (pt)
-  create: all
-  match: "**/*"
-  new_doc_ext: pt.md
+  new_doc_ext: ".md"
 - type: heading
   label: About
 - type: document
