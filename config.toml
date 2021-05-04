@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://building-naomilago.netlify.app/"
 defaultcontentlanguage = "en"
 disqusShortname = "yourdiscussshortname"
 languagecode = "en"

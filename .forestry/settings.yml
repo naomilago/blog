@@ -14,12 +14,6 @@ sections:
   new_doc_ext: md
 - type: directory
   path: content/posts/en
-  label: Posts (en)
-  create: all
-  match: "**/*"
-  new_doc_ext: en.md
-- type: directory
-  path: content/posts/en
   label: Posts (pt)
   create: all
   match: "**/*"
