@@ -2,7 +2,7 @@
 description = "projects"
 slug = "projects"
 thumbnail = "/uploads/screenshot.png"
-title = "Projects"
+title = "Projetos"
 
 +++
 ## Portfolio Demo
