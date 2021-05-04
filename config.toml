@@ -1,8 +1,8 @@
-baseurl = "https://building-naomilago.netlify.app/"
+baseurl = "https://building-naomilago.netlify.app"
 defaultcontentlanguage = "en"
 disqusShortname = "yourdiscussshortname"
 languagecode = "en"
-paginate = 20
+paginate = "20"
 pygmentsUseClasses = true
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
