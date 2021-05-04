@@ -33,7 +33,7 @@ author = "Naomi Lago"
 description = "Naomi Lago's personal blog"
 fixedbarContent = "Do you want to know me more private? → "
 fixedbarContentAfter = "Thank You! Please share it if you like it → "
-footercontent = "Enter a text here."
+footercontent = ""
 info = "Trans woman && Technology Lover"
 keywords = "blog,developer,personal,transgender,technology,career"
 [languages.pt]
