@@ -8,7 +8,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "b2"
 theme = "coder-portfolio"
-title = "Naomi Lago"
+title = "config.toml"
 [languages.en]
 languagename = "English"
 title = "Naomi Lago"
