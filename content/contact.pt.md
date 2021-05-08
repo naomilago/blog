@@ -8,7 +8,7 @@ title = "Contato"
 {{< html >}}  
 <div id="contact">
 
-<form action="https://formspree.io/f/xzbydqqp" method="POST">
+<form name="contact" action="/thank-you" method="POST" netlify>
 
 <h3>Escreva-me uma mensagem : )</h3>
 
