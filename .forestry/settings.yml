@@ -22,6 +22,8 @@ sections:
 - type: document
   path: content/about.pt.md
   label: About (pt)
+- type: heading
+  label: Contact
 - type: document
   path: content/contact.en.md
   label: Contact (en)
