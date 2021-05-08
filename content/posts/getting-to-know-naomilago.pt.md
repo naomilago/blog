@@ -10,10 +10,10 @@ title = "Conhecendo Naomi Lago "
 
 ⠀Ah, e durante essa conversa você pode se sentir como se estivesse falando comigo pessoalmente - assim como me sinto em relação a esse projeto quando escrevo por aqui.
 
-### Por que criei o blog?
+### Quais meus objetivos?
 
 ⠀Bem, sendo uma mulher trans que ama e estuda tecnologias, eu me vejo sendo muito pouco representada nessa área em seus diversos campos. Por existirem pouquíssimas referências de pessoas como eu atuando no ramo tecnológico, eu busco provar (até para mim mesma) que a possibilidade de estudar e trabalhar com o que realmente gosta é real, não importa de qual grupo minoritário você venha. Como o avanço tecnológico é real e conseguimos nos conectar com inúmeras pessoas ao redor do mundo, criar o blog tem sido a forma que encontrei de atingir essas pessoas e de ter meu lugarzinho para expressar minhas ideias, meus novos conhecimentos, minhas vivências etc. em meio a esse imenso ciberespaço.
 
-### Quais meus objetivos?
+### Por que eu criei o blog?
 
 ⠀Eu criei o blog como uma forma de expressar minha real pessoa para o mundo, buscando ser sempre verdadeira e - com isso, 
