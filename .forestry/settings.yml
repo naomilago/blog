@@ -4,19 +4,37 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: Configuration
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: heading
+  label: Blog Post
 - type: directory
   path: content/posts
   label: General
   create: all
   match: "**/*"
+- type: heading
+  label: About
+- type: document
+  path: content/about.en.md
+  label: About (en)
+  match: "**/*"
+- type: document
+  path: content/about.de.md
+  label: About (de)
+  match: "**/*"
+- type: document
+  path: content/about.pt.md
+  label: About (pt)
+  match: "**/*"
+- type: heading
+  label: Contact
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: document
+  path: config.toml
+  label: Configuration
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
