@@ -27,14 +27,15 @@ sections:
   match: "**/*"
 - type: heading
   label: Contact
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: heading
+  label: Projects
+- type: heading
+  label: Configuration
 - type: document
   path: config.toml
   label: Configuration
+- type: heading
+  label: Root
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
