@@ -36,6 +36,11 @@ sections:
   label: Configuration
 - type: heading
   label: Root
+- type: directory
+  path: ''
+  label: Root
+  create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
