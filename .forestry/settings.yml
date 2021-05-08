@@ -22,34 +22,26 @@ sections:
 - type: document
   path: content/about.pt.md
   label: About (pt)
-- type: heading
-  label: Contact
 - type: document
   path: content/contact.en.md
   label: Contact (en)
-  match: "**/*"
 - type: document
   path: content/contact.de.md
   label: Contact (de)
-  match: "**/*"
 - type: document
   path: content/contact.pt.md
   label: Contact (pt)
-  match: "**/*"
 - type: heading
   label: Projects
 - type: document
   path: content/projects.en.md
   label: Projects (en)
-  match: "**/*"
 - type: document
   path: content/projects.de.md
   label: Projects (de)
-  match: "**/*"
 - type: document
   path: content/projects.pt.md
   label: Projects (pt)
-  match: "**/*"
 - type: heading
   label: Configuration
 - type: document
