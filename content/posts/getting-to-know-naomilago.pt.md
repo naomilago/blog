@@ -6,6 +6,10 @@ tags = []
 title = "Conhecendo Naomi Lago "
 
 +++
-⠀Olá, seja bem-vinda(o) ao meu primeiro post. Eu não sei se você está visitando quando está sendo lançado ou depois de uma semana, de um mês ou simplesmente porque você sentiu interesse em saber mais sobre mim depois de ler algumas outras publicações. Nesse post, eu vou falar sobre alguns dos meus planos para o futuro e o que eu espero desse blog. Durante essa conversa, você pode se sentir como se estivesse falando comigo pessoalmente, assim como me sinto em relação a esse projeto ao escrever por aqui.
+⠀Olá, seja bem-vinda(o) ao meu primeiro post. Eu não sei se você está visitando quando está sendo lançado ou depois de uma semana, de um mês ou simplesmente porque você sentiu interesse em saber mais sobre mim depois de ler algumas outras publicações. Nesse post, eu vou falar sobre alguns dos meus planos para o futuro e o que eu espero desse blog. 
 
-⠀Bem,  
+⠀Ah, e durante essa conversa você pode se sentir como se estivesse falando comigo pessoalmente - assim como me sinto em relação a esse projeto quando escrevo por aqui.
+
+### Por que criei o blog?
+
+⠀Bem, sendo uma mulher trans que ama e estuda tecnologias, eu me vejo sendo muito pouco representada nessa área em seus diversos campos. Por existirem pouquíssimas referências de pessoas como eu atuando no ramo tecnológico, eu busco provar (até para mim mesma) que a possibilidade de estudar e trabalhar com o que realmente gosta é real, não importa de qual grupo minoritário você venha. Eu posso afirmar que criei o blog 
