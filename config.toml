@@ -1,0 +1,160 @@
+baseurl = "https://building-naomilago.netlify.app"
+defaultcontentlanguage = "en"
+disqusShortname = "building-naomilago"
+languagecode = "en"
+paginate = "20"
+pygmentsUseClasses = true
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsstyle = "b2"
+theme = "coder-portfolio"
+title = "config.toml"
+[languages.de]
+languagename = "Deutsch"
+title = "Naomi Lago"
+[[languages.de.menu.main]]
+name = "Über"
+url = "de/about"
+weight = 1
+[[languages.de.menu.main]]
+name = "Blog"
+url = "de/posts"
+weight = 2
+[[languages.de.menu.main]]
+name = "Projekte"
+url = "de/projects"
+weight = "3"
+[[languages.de.menu.main]]
+name = "Kontakt"
+url = "de/contact"
+weight = "4"
+[languages.de.params]
+author = "Naomi Lago"
+description = "Dies ist mein persönlicher Blog - ein Ort, an dem ich über meinen Lebensstil, meine Leidenschaften und meine Wege in der Technik sprechen kann."
+fixedbarContent = "Willst du mich näher kennenlernen? → "
+fixedbarContentAfter = "Dankeschön! Vergessen Sie nicht zu teilen, wenn Sie möchten → "
+footercontent = ""
+info = "Transfrau && Technologieliebhaber"
+keywords = "blog,entwicklung,trans,technologie,werdegang"
+[languages.en]
+languagename = "English"
+title = "Naomi Lago"
+[[languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 1
+[[languages.en.menu.main]]
+name = "Blog"
+url = "posts"
+weight = 2
+[[languages.en.menu.main]]
+name = "Projects"
+url = "projects"
+weight = "3"
+[[languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = "4"
+[languages.en.params]
+author = "Naomi Lago"
+description = "This is my personal blog - a place where I may talk about life style, my passions and my paths in technology."
+fixedbarContent = "Do you want to know me more private? → "
+fixedbarContentAfter = "Thank You! Please share it if you like it → "
+footercontent = ""
+info = "Trans woman && Technology Lover"
+keywords = "blog,developer,personal,transgender,technology,career"
+[languages.pt]
+languagename = "Português"
+title = "Naomi Lago"
+[[languages.pt.menu.main]]
+name = "Sobre"
+url = "pt/about"
+weight = 1
+[[languages.pt.menu.main]]
+name = "Blog"
+url = "pt/posts"
+weight = 2
+[[languages.pt.menu.main]]
+name = "Projetos"
+url = "pt/projects"
+weight = "3"
+[[languages.pt.menu.main]]
+name = "Contato"
+url = "pt/contact"
+weight = "4"
+[languages.pt.params]
+author = "Naomi Lago"
+description = "Este é meu blog pessoal - um lugar onde falarei sobre meu estilo de vida, minhas paixões e meus caminhos na tecnologia."
+fixedbarContent = "Quer me conhecer mais de perto? → "
+fixedbarContentAfter = "Obrigada! Não se esqueça de compartilhar se você gostar → "
+footercontent = ""
+info = "Mulher Trans && Amante de Tecnologia"
+keywords = "blog,desenvolvimento,trans,tecnologia,carreira"
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 4
+[[menu.main]]
+name = "Projects"
+url = "projects"
+weight = 3
+[[menu.main]]
+name = "Blog"
+url = "posts"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
+[params]
+author = "Naomi Lago"
+avatarurl = "images/avatar.png"
+custom_css = []
+description = "This is my personal blog - a place where I may talk about life style, my passions and my paths in technology."
+enableFacebookShare = true
+enableHatenaShare = false
+enableLineShare = true
+enableLinkedInShare = true
+enableTwitterShare = true
+fixedbarContent = "Do you want to know me more private?→"
+fixedbarContentAfter = "Thank You! Please share it if you like it→"
+footercontent = ""
+hideCopyright = false
+hideCredits = false
+info = "Trans woman && Technology Lover"
+itemscentered = true
+keywords = "blog,development,personal,transgender,technology,career"
+langseparator = "|"
+rtl = false
+snsShare = true
+thumbnail = "/uploads/screenshot.png"
+[[params.social]]
+icon = "fab fa-github"
+name = "Github"
+url = "https://github.com/naomilago/"
+weight = 1
+[[params.social]]
+icon = "fab fa-linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/naomilag0/"
+weight = 2
+[[params.social]]
+icon = "fab fa-telegram"
+name = "Telegram"
+url = "https://www.t.me/naomilag0/"
+weight = 3
+[[params.social]]
+icon = "fab fa-facebook"
+name = "Facebook"
+url = "https://facebook.com/naomilag0/"
+weight = 4
+[[params.social]]
+icon = "fab fa-twitter"
+name = "Twitter"
+url = "https://twitter.com/naomilag0/"
+weight = 5
+[[params.social]]
+icon = "fab fa-instagram"
+name = "Twitter"
+url = "https://instagram.com/naomilag0/"
+weight = 6

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naomi Lago</title>
+    <link>https://building-naomilago.netlify.app/pt/</link>
+    <description>Recent content on Naomi Lago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 May 2021 21:00:00 +0000</lastBuildDate><atom:link href="https://building-naomilago.netlify.app/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conhecendo Naomi Lago </title>
+      <link>https://building-naomilago.netlify.app/pt/posts/getting-to-know-naomilago/</link>
+      <pubDate>Sat, 08 May 2021 21:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/pt/posts/getting-to-know-naomilago/</guid>
+      <description>Step 1. Install Hugo - PORTUGUÊS S Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://building-naomilago.netlify.app/pt/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/pt/contact/</guid>
+      <description> Escreva-me uma mensagem : )  Nome*  E-mail*  Mensagem*     Enviar   </description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://building-naomilago.netlify.app/pt/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/pt/projects/</guid>
+      <description>Be the Hero ⠀Eu desenvolvi o Be the Hero durante um evento chamado Semana Omnistack 11.0 organizado pela Rocketseat e esse é um projeto open-source. A ideia é construir pontes entre ONGs e pessoas que buscam fazer contribuições. Os usuários podem acessar várias arrecadações e escolher quais irão contribuir enquanto as organizações podem registrar várias de suas arrecadações baseadas sem suas atividades.
+⠀Esse foi um dos meus primeiros projetos que fiz usando as tecnologias Node.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://building-naomilago.netlify.app/pt/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/pt/about/</guid>
+      <description>⠀Olá, meu nome é Naomi Lago, tenho 18 anos e, se você tiver interesse, sou pisciana.Eu nasci em uma cidade pequena no estado de São Paulo, Brasil. Sou formada técnica em Informática para Internet, estudei o curso técnico de Manutenção e Suporte em Informática durante um ano lá em 2019 e agora estu cursando o superior em Defesa Cibernética.
+⠀Como você pode ver, sempre fui apaixonada por tecnologia e desde que eu era criança um dos meus maiores sonhos era claramente explorar novas tecnologias e criar grandes projetos.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naomi Lago</title>
+    <link>https://building-naomilago.netlify.app/</link>
+    <description>Recent content on Naomi Lago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 May 2021 21:00:00 +0000</lastBuildDate><atom:link href="https://building-naomilago.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting to know Naomi Lago</title>
+      <link>https://building-naomilago.netlify.app/posts/getting-to-know-naomilago/</link>
+      <pubDate>Sat, 08 May 2021 21:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/posts/getting-to-know-naomilago/</guid>
+      <description>Step 1. Install Hugo - ENGLISH Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://building-naomilago.netlify.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/about/</guid>
+      <description>⠀Hello, my name is Naomi Lago, I&amp;rsquo;m 18 and, if you&amp;rsquo;re interested, I&amp;rsquo;m a Pisces. I was born in a small city in the São Paulo state of Brazil. I&amp;rsquo;m an Internet Computer technician, I&amp;rsquo;ve studied Computer Maintenance and Support technician degree for one year back in 2019 and now I&amp;rsquo;m an undergraduate in Cyber Defense.
+⠀As you can see, I&amp;rsquo;ve always been passionate about technology and since I was a child one of my biggest dreams was surely explore new technologies and make huge projects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://building-naomilago.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/contact/</guid>
+      <description> Send me a message : )  Name*  E-mail*  Message*     Send   </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://building-naomilago.netlify.app/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/projects/</guid>
+      <description>Be the Hero ⠀I developed Be the Hero during an event called Semana Omnistack 11.0 organized by Rocketseat and it is an open-source project. The idea is to build bridges between NGOs and people who want to contribute to them. Users can access many fundings and choose which one they will contribute while the organizations can register many fundings based on their activities.
+⠀This was one of the first projects I made using Node.</description>
+    </item>
+    
+  </channel>
+</rss>

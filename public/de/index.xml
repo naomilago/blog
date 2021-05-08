@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naomi Lago</title>
+    <link>https://building-naomilago.netlify.app/de/</link>
+    <description>Recent content on Naomi Lago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 May 2021 21:00:00 +0000</lastBuildDate><atom:link href="https://building-naomilago.netlify.app/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kennenlernen von Naomi Lago</title>
+      <link>https://building-naomilago.netlify.app/de/posts/getting-to-know-naomilago/</link>
+      <pubDate>Sat, 08 May 2021 21:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/de/posts/getting-to-know-naomilago/</guid>
+      <description>Step 1. Install Hugo - DEUTSCH Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://building-naomilago.netlify.app/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/de/contact/</guid>
+      <description> Schick mir eine Nachricht : )  Name*  E-mail*  Nachricht*     Einreichen   </description>
+    </item>
+    
+    <item>
+      <title>Projekte</title>
+      <link>https://building-naomilago.netlify.app/de/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/de/projects/</guid>
+      <description>Be the Hero ⠀Ich habe Be the Hero während einer von Rocketseat organisierten Veranstaltung namens Semana Omnistack 11.0 entwickelt und es ist ein Open-Source-Projekt. Die Idee ist, Brücken zwischen NGOs und Menschen zu schlagen, die dazu beitragen wollen. Benutzer können auf viele Mittel zugreifen und auswählen, welche sie beitragen möchten, während die Organisationen viele Mittel basierend auf ihren Aktivitäten registrieren können.
+⠀Dies war eines der ersten Projekte, die ich mit den Technologien Node.</description>
+    </item>
+    
+    <item>
+      <title>Über</title>
+      <link>https://building-naomilago.netlify.app/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://building-naomilago.netlify.app/de/about/</guid>
+      <description>⠀Hallo, mein Name ist Naomi Lago, ich bin 18 Jahre alt und (falls es dich interessiert) vom Sternzeichen „Fische“. Ich bin in einer kleinen Stadt im Staat São Paulo, Brasilien geboren. Ich bin eine Internet-Computertechnikerin, habe 2019 ein Jahr lang einen Abschluss als Computerwartungs-und Supporttechnikerin gemacht und studiere nun IT-Sicherheit.
+⠀Wie du sehen kannst, war ist schon immer leidenschaftlich an Technologie interessiert und seit meiner Kindheit ist es ein großer Traum von mir neue Technologien zu entdecken und große Projekte umzusetzen.</description>
+    </item>
+    
+  </channel>
+</rss>
