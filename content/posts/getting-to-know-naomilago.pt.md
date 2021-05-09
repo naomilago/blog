@@ -22,7 +22,13 @@ title = "Conhecendo Naomi Lago "
 
 <div class="center">
 
-{{< figure src="/uploads/purpleFlower.png" caption="This is a caption" width="300" height="300" class="center" >}}
+<figure>
+
+<img src="/uploads/purpleFlower.png" alt="Purple Flower" style="width:50%">
+
+<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+
+</figure>
 
 </div>
 
