@@ -1,10 +1,10 @@
 +++
-title = "Conhecendo Naomi Lago "
-description = "Esse é o meu primeiro post onde falarei sobre minhas razões e objetivos para este blog e muito mais."
-date = 2021-05-08T21:00:00Z
-thumbnail = "/uploads/screenshot.png"
 categories = []
+date = 2021-05-08T21:00:00Z
+description = "Esse é o meu primeiro post onde falarei sobre minhas razões e objetivos para este blog e muito mais."
 tags = []
+thumbnail = "/uploads/thumbnail.png"
+title = "Conhecendo Naomi Lago "
 
 +++
 ⠀Olá, seja bem-vinda(o) ao meu primeiro post. Eu não sei se você está visitando quando acaba de ser lançado ou depois de uma semana, um mês ou simplesmente porque você sentiu interesse em saber mais sobre mim depois de ler algumas outras publicações. Nesse post, eu vou falar sobre alguns dos meus planos para o futuro e o que eu espero desse blog.
