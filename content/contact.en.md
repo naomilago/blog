@@ -8,7 +8,7 @@ title = "Contact"
 {{< html >}}  
 <div id="contact">
 
-<form name="contact" action={{ "/thank-you" | absURL }} method="POST" netlify>
+<form name="contact" action="https://naomilago.netlify.app/thank-you/" method="POST" netlify>
 
 <h4>Send me a message : )</h4>
 
