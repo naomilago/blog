@@ -26,7 +26,7 @@ title = "Conhecendo Naomi Lago "
 
 ### O que eu espero de você?
 
-⠀Eu espero que você, assim como eu, esteja aberta(o) para o novo e para o desconhecido e que leve consigo sempre o respeito e a empatia. Espero que, quando concordar com minhas falas, me diga em que concorda. Espero da mesma forma que, quando discordar, também discorra sobre. Espero que você se sinta à vontade para se expressar tanto aqui nos comentários quanto nas redes sociais ao entrar em contato direto comigo para que tudo seja o mais agradável possível. 
+⠀Eu espero que você, assim como eu, esteja aberta(o) para o novo e para o desconhecido e que leve consigo sempre o respeito e a empatia. Espero que, quando concordar com minhas falas, me diga em que concorda. Espero da mesma forma que, quando discordar, também discorra sobre. Espero que você se sinta à vontade para se expressar tanto aqui nos comentários quanto nas redes sociais ao entrar em contato comigo para que tudo seja o mais agradável possível. 
 
 ### 
 
