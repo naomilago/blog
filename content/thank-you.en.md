@@ -8,7 +8,7 @@ title = "Thank you"
 
 <div class="error">
 
-<h4>Thanks for sending your e-mail!</h4>
+<h3>Thanks for sending your e-mail!</h3>
 
 <p>I'll reach you out as soon as possible ^ ^<br />Now, you can head back to <a href="/contact">previous page</a>.</p>
 
