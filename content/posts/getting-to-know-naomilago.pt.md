@@ -18,4 +18,6 @@ title = "Conhecendo Naomi Lago "
 
 ⠀Desde que eu iniciei meus estudos na TI (Tecnologia da Informação), eu sempre me imaginei desenvolvendo um projeto onde eu pudesse ter a liberdade se ser eu mesma e, sendo eu mesma, promovesse alguma mudança positiva - por menor que seja. Já tentei criar um podcast (sim, um podcast), um canal no youtube (exatamente) mas criar o blog foi uma das últimas coisas que pensei mas a que mais me atraiu. Juntando o fato de que eu não me dou muito bem com as câmeras ou até mesmo com os áudios, escrever foi uma ótima alternativa - principalmente porque eu adoro escrever. A liberdade em anexar uma foto ou um vídeo em seu post também é incrivel! Veja esse lindo campo de lavanda ao final e depois me diga qual sua cor favorita nos comentários (Acho super justo eu incluir minha cor favorita em meu primeiro post, você não acha?!). 
 
-{{< figure src="/uploads/lavander.png" caption="Foto por [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" max-width="2em" >}}
+### O que eu espero de você?
+
+{{< figure src="/uploads/lavander.png" caption="Foto por [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" max-width="512px" >}}
