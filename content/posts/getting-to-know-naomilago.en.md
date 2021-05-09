@@ -7,7 +7,7 @@ thumbnail = "/uploads/thumbnail.png"
 title = "Getting to know Naomi Lago"
 
 +++
-⠀Hello, welcome to my first post. I don't know if you are visiting when it has just been released or after a week, a month or simply because you felt interested in knowing more about me after reading some other posts. In this post, I will talk about some of my plans for the future and what I expect from this blog. 
+⠀Hello, welcome to my first post. I don't know if you are visiting when it has just been released or after a week, a month or simply because you felt interested in knowing more about me after reading some other posts. In this post, I will talk about some of my plans for the future and what I expect from this blog.
 
 ⠀Oh, and during this conversation, you may feel as if you are talking to me personally - just as I feel about this project when I write here.
 
