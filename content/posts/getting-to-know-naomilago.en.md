@@ -41,7 +41,7 @@ title = "Getting to know Naomi Lago"
 <br />  
 <br />
 
-{{< figure src="/uploads/lavander.png" caption="Foto por [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)!" max-width="512" >}}
+{{< figure src="/uploads/lavander.png" caption="Photo by [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" max-width="512" >}}
 
 <br />
 
