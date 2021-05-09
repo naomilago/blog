@@ -8,9 +8,9 @@ title = "Vielen Danke"
 
 <div class="error">
 
-<h3>Thanks for sending your e-mail!</h3>
+<h3>Vielen Dank für die Zusendung Ihrer E-Mail!</h3>
 
-<p>I'll reach you out as soon as possible ^ ^<br />Now, you can head back to <a href="/contact">previous page</a>.</p>
+<p>Ich melde mich so schnell wie möglich bei Ihnen ^^<br />Jetzt können Sie zur <a href="/contact">vorherigen Seite</a> zurückkehren.</p>
 
 </div>
 
