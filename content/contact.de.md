@@ -8,7 +8,7 @@ title = "Kontakt"
 {{< html >}}  
 <div id="contact">
 
-<form name="contact" action="https://naomilago.netlify.app/de/thank-you/" method="POST" netlify>
+<form name="contact" action="/de/thank-you/" method="POST" netlify>
 
 <h3>Schick mir eine Nachricht : )</h3>
 
