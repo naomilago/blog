@@ -22,7 +22,7 @@ title = "Conhecendo Naomi Lago "
 
 <div class="center">
 
-{{< figure src="/uploads/lavander.png" caption="Foto por [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" width="40%" >}}
+{{< figure src="/uploads/lavander.png" style="text-align: center;" caption="Foto por [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" width="40%" >}}
 
 </div>
 
