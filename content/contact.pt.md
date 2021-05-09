@@ -8,7 +8,7 @@ title = "Contato"
 {{< html >}}  
 <div id="contact">
 
-<form name="contact" action="/pt/thank-you/" method="POST" netlify>
+<form name="contact" action="/thank-you/" method="POST" netlify>
 
 <h3>Escreva-me uma mensagem : )</h3>
 
