@@ -18,18 +18,4 @@ title = "Conhecendo Naomi Lago "
 
 ⠀Desde que eu iniciei meus estudos na TI (Tecnologia da Informação), eu sempre me imaginei desenvolvendo um projeto onde eu pudesse ter a liberdade se ser eu mesma e, sendo eu mesma, promovesse alguma mudança positiva - por menor que seja. Já tentei criar um podcast (sim, um podcast), um canal no youtube (exatamente) mas criar o blog foi uma das últimas coisas que pensei mas a que mais me atraiu. Juntando o fato de que eu não me dou muito bem com as câmeras ou até mesmo com os áudios, escrever foi uma ótima alternativa - principalmente porque eu adoro escrever. A liberdade de colocar uma foto durante seu post também é incrivel! Vejamos essa linda flor roxa e depois me diga quais suas cores favoritas nos comentários. (Agora você já sabe qual é a minha, né?)
 
-{{< html >}}
-
-<div class="center">
-
-<figure>
-
-<img src="/uploads/purpleFlower.png" alt="Purple Flower" style="width:50%">
-
-<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-
-</figure>
-
-</div>
-
-{{< /html >}}
+{{% figure position="center" src="/uploads/lavander.png" caption="Photo by [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" width="40%" %}}
