@@ -20,14 +20,31 @@ title = "Conhecendo Naomi Lago "
 
 ### Por que eu criei o blog?
 
-⠀Desde que eu iniciei meus estudos na TI (Tecnologia da Informação), eu sempre me imaginei desenvolvendo um projeto onde eu pudesse ter a liberdade se ser eu mesma e, sendo eu mesma, promovesse alguma mudança positiva - por menor que seja. Já tentei criar um podcast (sim, um podcast), um canal no youtube (exatamente) mas criar o blog foi uma das últimas coisas que pensei mas a que mais me atraiu. Juntando o fato de que eu não me dou muito bem com as câmeras ou até mesmo com os áudios, escrever foi uma ótima alternativa - principalmente porque eu adoro escrever. A liberdade em anexar uma foto ou um vídeo em seu post também é incrivel! Veja esse lindo campo de lavanda ao final e depois me diga qual sua cor favorita nos comentários (Acho super justo eu incluir minha cor favorita em meu primeiro post, você não acha?!). 
+⠀Desde que eu iniciei meus estudos na TI (Tecnologia da Informação), eu sempre me imaginei desenvolvendo um projeto onde eu pudesse ter a liberdade se ser eu mesma e, sendo eu mesma, promovesse alguma mudança positiva - por menor que seja. Já tentei criar um podcast (sim, um podcast), um canal no youtube (exatamente) mas criar o blog foi uma das últimas coisas que pensei mas a que mais me atraiu. Juntando o fato de que eu não me dou muito bem com as câmeras ou até mesmo com os áudios, escrever foi uma ótima alternativa - principalmente porque eu adoro escrever. A liberdade em anexar uma foto ou um vídeo em seu post também é incrivel! Veja esse lindo campo de lavanda ao final e depois me diga qual sua cor favorita nos comentários (Acho super justo eu incluir minha cor favorita em meu primeiro post, você não acha?!).
 
 <br />
 
 ### O que eu espero de você?
 
-⠀Eu espero que você, assim como eu, esteja aberta(o) para o novo e para o desconhecido e que leve consigo sempre o respeito e a empatia. Espero que, quando concordar com minhas falas, me diga em que concorda. Espero da mesma forma que, quando discordar, também discorra sobre. Espero que você se sinta à vontade para se expressar tanto aqui nos comentários quanto nas redes sociais ao entrar em contato comigo para que tudo seja o mais agradável possível. 
+⠀Eu espero que você, assim como eu, esteja aberta(o) para o novo e para o desconhecido e que leve consigo sempre o respeito e a empatia. Espero que, quando concordar com minhas falas, me diga em que concorda. Espero da mesma forma que, quando discordar, também discorra sobre. Espero que você se sinta à vontade para se expressar tanto aqui nos comentários quanto nas redes sociais ao entrar em contato comigo para que tudo seja o mais agradável possível.
 
-### 
+<br />
+
+### Estamos chegando ao fim...
+
+⠀Estamos chegando ao fim desse primeiro post e eu gostaria reforçar que você pode sempre entrar em contato comigo escrevendo um comentário, me enviando um e-mail ou se comunicando através das minhas redes sociais.
+
+⠀Ah, e em todo final de post, eu pretendo trazer algumas indicações que levem você a conhecer ou rever livros, filmes, vídeos etc. para que nossas discussões se tornem ainda mais ricas no quesito referências ou até mesmo no quesito entretenimento. Hoje, eu gostaria apenas de compartilhar essa foto e de trocar esse papo com vocês.
+
+⠀Agradeço por ter lido até aqui, nós nos falamos no próximo post : )
+
+<br />  
+<br />
 
 {{< figure src="/uploads/lavander.png" caption="Foto por [Léonard Cotte](https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/purple-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" max-width="512" >}}
+
+<br />
+
+<br />
+
+<br />
