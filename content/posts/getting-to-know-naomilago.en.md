@@ -1,9 +1,11 @@
 +++
-categories = []
-date = 2021-05-08T21:00:00Z
-description = "This is my first post where I talk about my reasons and goals for doing this blog and much more."
-tags = []
 title = "Getting to know Naomi Lago"
+description = "This is my first post where I talk about my reasons and goals for doing this blog and much more."
+date = 2021-05-08T21:00:00Z
+thumbnail = "/uploads/screenshot.png"
+categories = []
+tags = []
+
 
 +++
 ⠀Hello, welcome to my first post. I don't know if you are visiting when it has just been released or after a week, a month or simply because you felt interested in knowing more about me after reading some other posts. In this post, I will talk about some of my plans for the future and what I expect from this blog. 
