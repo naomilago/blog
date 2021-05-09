@@ -16,10 +16,14 @@ title = "Conhecendo Naomi Lago "
 
 ### Por que eu criei o blog?
 
-⠀Desde que eu iniciei meus estudos na TI (Tecnologia da Informação), eu sempre me imaginei desenvolvendo um projeto onde eu pudesse ter a liberdade se ser eu mesma e, sendo eu mesma, promovesse alguma mudança positiva - por menor que seja. Já tentei criar um podcast (sim, um podcast), um canal no youtube (exatamente) mas criar o blog foi uma das últimas coisas que pensei mas a que mais me atraiu. Juntando o fato de que eu não me dou muito bem com as câmeras ou até mesmo com os áudios, escrever foi uma ótima alternativa - principalmente porque eu adoro escrever. A liberdade de colocar uma foto durante seu post também é incrivel! Vejamos essa linda flor roxa... Depois me diga quais suas cores favoritas nos comentários. (Agora você já sabe qual é a minha, né?)
+⠀Desde que eu iniciei meus estudos na TI (Tecnologia da Informação), eu sempre me imaginei desenvolvendo um projeto onde eu pudesse ter a liberdade se ser eu mesma e, sendo eu mesma, promovesse alguma mudança positiva - por menor que seja. Já tentei criar um podcast (sim, um podcast), um canal no youtube (exatamente) mas criar o blog foi uma das últimas coisas que pensei mas a que mais me atraiu. Juntando o fato de que eu não me dou muito bem com as câmeras ou até mesmo com os áudios, escrever foi uma ótima alternativa - principalmente porque eu adoro escrever. A liberdade de colocar uma foto durante seu post também é incrivel! Vejamos essa linda flor roxa e depois me diga quais suas cores favoritas nos comentários. (Agora você já sabe qual é a minha, né?)
+
+{{< html >}}
 
 <div class="center">
 
 {{< figure src="/uploads/purpleFlower.png" caption="This is a caption" width="300" height="300" class="center" >}}
 
 </div>
+
+{{< /html >}}
