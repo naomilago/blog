@@ -8,7 +8,7 @@ title = "Obrigada"
 
 <div class="error">
 
-<h4>Obrigada por enviar seu e-mail!</h4>
+<h3>Obrigada por enviar seu e-mail!</h3>
 
 <p>Entrarei em contato assim que possível ^ ^<br />Agora, você pode voltar para a<a href="/br/contact">página anterior</a>.</p>
 
