@@ -141,7 +141,7 @@ weight = 2
 [[params.social]]
 icon = "fab fa-telegram"
 name = "Telegram"
-url = "https://www.t.me/naomilag0/"
+url = "https://www.t.me/naomilago/"
 weight = 3
 [[params.social]]
 icon = "fab fa-facebook"
