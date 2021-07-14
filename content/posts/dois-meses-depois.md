@@ -1,7 +1,7 @@
 +++
 categories = []
 date = 2021-05-08T21:00:00Z
-description = "Esse é o meu primeiro post onde falarei sobre minhas razões e objetivos para este blog e muito mais."
+description = "Esse é o meu segundo post onde falarei sobre meus medos, minhas conquistas e meus objetivos."
 draft = true
 tags = []
 thumbnail = "/uploads/thumbnail.png"
