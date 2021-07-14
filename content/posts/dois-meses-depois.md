@@ -8,6 +8,8 @@ thumbnail = "/uploads/thumbnail.png"
 title = "Dois meses depois..."
 
 +++
+PORTUGUESE
+
 ⠀Olá, seja bem-vinda(o) ao meu primeiro post. Eu não sei se você está visitando quando acaba de ser lançado ou depois de uma semana, um mês ou simplesmente porque você sentiu interesse em saber mais sobre mim depois de ler algumas outras publicações. Nesse post, eu vou falar sobre alguns dos meus planos para o futuro e o que eu espero desse blog.
 
 ⠀Ah, e durante essa conversa você pode se sentir como se estivesse falando comigo pessoalmente - assim como me sinto em relação a esse projeto quando escrevo por aqui.
